@@ -1,4 +1,4 @@
-# @appneural/plugin-cloud-infra
+# @appneural/cli-plugin-cloud-infra
 
 ## Project Overview
 
@@ -14,7 +14,7 @@ This plugin provides cloud infrastructure management and automation tools for th
 ## Installation
 
 ```bash
-npm add @appneural/plugin-cloud-infra
+npm add @appneural/cli-plugin-cloud-infra
 ```
 
 ## Available Commands (using anx tools)

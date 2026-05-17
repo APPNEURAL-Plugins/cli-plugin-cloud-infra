@@ -1,5 +1,5 @@
 {
-  "name": "@appneural/plugin-cloud-infra",
+  "name": "@appneural/cli-plugin-cloud-infra",
   "version": "0.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
   "keywords": [
     "appneural",
     "plugin",
-    "plugin-cloud-infra"
+    "cli-plugin-cloud-infra"
   ],
   "author": "APPNEURAL",
   "license": "MIT",
