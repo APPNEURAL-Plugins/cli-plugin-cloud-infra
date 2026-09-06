@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This plugin provides cloud infrastructure management and automation tools for the Appneural platform. It enables users to provision, configure, monitor, and scale cloud infrastructure resources using intelligent commands and automation.
+This plugin provides cloud infrastructure management and automation tools for the APPNEURAL platform. It enables users to provision, configure, monitor, and scale cloud infrastructure resources using intelligent commands and automation.
 
 ## Benefits
 
